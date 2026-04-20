@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/choisunghee/Desktop/middle-test/v9_optuna/run_v9.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
